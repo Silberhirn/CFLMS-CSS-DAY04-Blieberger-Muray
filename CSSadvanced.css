@@ -1,0 +1,52 @@
+body {
+	vertical-align: middle;
+	text-align: center;
+	margin: auto;
+	width: 1000px;
+}
+
+#column1 {
+	float: left;
+	height: 100px;
+	width: 30%;
+	background-color: lightblue;
+}
+
+#column2 {
+	float: left;
+	height: 100px;
+	width: 30%;
+	position: relative;
+	left: 5%;
+	background-color: lightblue;
+}
+
+#column3 {
+	float: left;
+	height: 100px;
+	width: 30%;
+	position: relative;
+	left: 10%;
+	background-color: lightblue;
+}
+
+#features {
+	height: 100px;
+	background-color: lightblue;
+}
+
+footer {
+	clear: both;
+	height: 100px;
+	background-color: lightblue;
+}
+
+nav {
+	height: 100px;
+	background-color: lightblue;
+}
+
+hr {
+	clear: both;
+	visibility: hidden;
+}
